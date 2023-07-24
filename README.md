@@ -4,6 +4,7 @@
 
 * Python 3.10
 * Django 3.2.6
+* Djoser
 * Postgres
 
 ## Функции
